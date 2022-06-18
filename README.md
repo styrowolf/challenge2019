@@ -20,13 +20,13 @@ code for team 1064 of arc summer mechatronics competition
 
 2. open a folder that you want to have the challenge2019 code in
 
-[opening a folder](https://i.hizliresim.com/buyxljk.png)
+![opening a folder](https://i.hizliresim.com/buyxljk.png)
 
 3. right click (on mac, two finger click) on the gray box on the left and select open integrated terminal
 
-[opening the integrated terminal](https://i.hizliresim.com/olury1b.png)
+![opening the integrated terminal](https://i.hizliresim.com/olury1b.png)
 
-[the integrated terminal](https://i.hizliresim.com/7ih2d0b.png)
+![the integrated terminal](https://i.hizliresim.com/7ih2d0b.png)
 
 4. copy and paste this into your terminal
 
@@ -38,7 +38,7 @@ git clone https://github.com/styrowolf/challenge2019.git
 
 6. select the option "Open Folder" under the "File" option in the upper bar and open the challenge2019 folder
 
-[open folder](https://i.hizliresim.com/ha4ibaf.png)
+![open folder](https://i.hizliresim.com/ha4ibaf.png)
 
 7. the project is ready for your edits!
 
