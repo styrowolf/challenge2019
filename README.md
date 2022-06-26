@@ -45,4 +45,7 @@ git clone https://github.com/styrowolf/challenge2019.git
 ## features
 
 - [ ] swerve drive
-    - 8 falcon 500 motors, 2 per module
+    - 4 falcon 500 motors for drive
+    - 4 775pro motors for turning
+        - with TalonSRX controllers and CTRE mag encoders
+- [ ] rev PDH
