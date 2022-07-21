@@ -15,10 +15,13 @@ import edu.wpi.first.math.geometry.Translation2d;
  * constants are needed, to reduce verbosity.
  */
 public final class Constants {
-    public final class Drivetrain {
-        public final Translation2d FRONT_LEFT_LOCATION = new Translation2d();
-        public final Translation2d FRONT_RIGHT_LOCATION = new Translation2d();
-        public final Translation2d BACK_LEFT_LOCATION = new Translation2d();
-        public final Translation2d BACK_RIGHT_LOCATION = new Translation2d();
+    public static final class Drivetrain {
+        public final static Translation2d FRONT_LEFT_LOCATION = new Translation2d();
+        public final static Translation2d FRONT_RIGHT_LOCATION = new Translation2d();
+        public final static Translation2d BACK_LEFT_LOCATION = new Translation2d();
+        public final static Translation2d BACK_RIGHT_LOCATION = new Translation2d();
+
+        public final static double WHEEL_CIRCUMFERENCE = 0;
+        public final static double MAX_SPEED = 0;
     }
 }
